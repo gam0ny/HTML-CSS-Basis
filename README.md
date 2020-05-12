@@ -1,2 +1,2 @@
 # HTML-CSS-Basis
-Coursera training homework tasks
+Coursera training homework tasks [Yandex]
